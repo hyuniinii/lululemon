@@ -121,10 +121,10 @@ $(document).ready(function(){
          },
          breakpoints: {
          0:{
-            slidesPerView: 2,
+            slidesPerView: 3,
          },
          640: { 
-            slidesPerView: 2,
+            slidesPerView: 3,
          },
          768: { 
             slidesPerView: 4,
